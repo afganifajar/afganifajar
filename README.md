@@ -6,7 +6,7 @@ I'm a data science and machine learning enthusiast! I love to playing with data 
 - 👯 I’m currently looking to any opportunity related with data
 - 🌱 I’m currently learning about optical character recognition and R language
 - 💬 Let's discuss about anything related with data
-- ⚡ My motto is "Fail Fast Succeed Faster"
+- ⚡ My motto: "Fail Fast Succeed Faster"
 
 ## Tech stack
 
